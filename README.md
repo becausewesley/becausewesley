@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @becausewesley
+- 👀 I’m interested in data science, data analysis and general scripting using Python.
+- 🌱 I’m currently learning:
+    - Python
+    - SQLite
+    - TKinter UI builds
+    - Data pickling
+    - And other Pythonic concepts :D
+- 💞️ I’m looking to showcase my current (albeit basic) portofolio, and  collaborate on open source Python projects.
+- 📫 How to reach me: 
+    - wesley.swrt@gmail.com
